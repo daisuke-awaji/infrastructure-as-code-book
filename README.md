@@ -1,12 +1,18 @@
-# Infrastructure as Code 完全ガイドについて
+# AWS CloudFormation 完全ガイドについて
 
-## Can I become who I want to be?
+AWS CloudFormation 完全ガイドでは、AWS CloudFormation を使用したインフラリソースのプロビジョニングに関するTipsをまとめ、ベストプラクティスとして形式化します。
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+## Contribute
 
-## Have you had a chance to answer the previous question?
+お気づきの点についてIssueやPRを送って頂けると大変幸いです。些細なものでも歓迎いたします。
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+例:
+
+* ベストプラクティスと考えられるページを追記する
+* 誤記、タイプミスを修正する
+* 理解しやすい日本語に修正する
+* 用語を統一する\(用語集が必要かもしれません\)
+* 上記をIssueによって指摘する
 
 
 
